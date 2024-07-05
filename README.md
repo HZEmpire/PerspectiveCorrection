@@ -27,9 +27,9 @@ python perspective_correction.py --input <input_image_path> --output <output_ima
 The demo operation of the batch processing and each function in the script is shown in the [demo.ipynb](./demo.ipynb) file.
 The following result are sample input and output images.
 - Input Image
-<img src="./input/demo.jpg" width="500px" alt="Error">
+<img src="./input/demo.jpg" width="500px" alt="Error" align=center>
 - Output Image
-<img src="./output/demo.jpg" width="500px" alt="Error">
+<img src="./output/demo.jpg" width="500px" alt="Error" align=center>
 
 ## Author
 [Xu Haozhou](https://hzempire.github.io/)
