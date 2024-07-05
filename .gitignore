@@ -1,0 +1,7 @@
+# pycache
+__pycache__/
+
+# test files
+test.*
+input/*.jpg
+output/*
