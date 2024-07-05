@@ -3,5 +3,8 @@ __pycache__/
 
 # test files
 test.*
-input/*.jpg
-output/*
+input/q*.jpg
+output/q*.jpg
+
+# DS_Store
+.DS_Store

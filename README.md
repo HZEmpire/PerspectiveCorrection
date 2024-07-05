@@ -25,6 +25,7 @@ python perspective_correction.py --input <input_image_path> --output <output_ima
 
 ## Demo
 The demo operation of the batch processing and each function in the script is shown in the [demo.ipynb](./demo.ipynb) file.
+The sample images are stored in the [input](./input) folder and the output images are stored in the [output](./output) folder.
 
 ## Author
 [Xu Haozhou](https://hzempire.github.io/)
